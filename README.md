@@ -18,6 +18,6 @@ section6.R and section7.R are for section 6 and section 7, respectively.
 Covid_SMI.pdf is the complete paper for the Covid SMI project.
 
 There are also two additional papers related to Cut model and SMI.
-Nested MCMC and Tempering MCMC Comparison.pdf analyzes Normal dataset under Cut model using both nested MCMC and tempering MCMC and compares the result in terms of precision and efficiency.
+Nested_tempering.pdf analyzes Normal dataset under Cut model using both nested MCMC and tempering MCMC and compares the result in terms of precision and efficiency.
 
 Normal_SMI.pdf contains the analysis of Normal dataset under semi-modular inference scheme.
